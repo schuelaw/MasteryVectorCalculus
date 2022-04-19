@@ -50,7 +50,7 @@ details on this process.
 **Tree Based Progress:** Section assessments are the foundation of a
 pyramidal or hierachical approach to measuring progress in the course.
 
-![tree based progress]("Hierarchical Grading Scheme.svg")
+![tree based progress]("TreeGrading.png")
 
 In the diagram, we see a tree with three levels. The section assessments at
 the bottom (the leaves), the chapter assessments in the middle, and the
