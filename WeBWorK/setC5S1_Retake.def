@@ -1,0 +1,64 @@
+assignmentType      = default
+openDate          = 07/20/2020 at 11:59pm PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 12/27/2020 at 11:59pm PST
+answerDate        = 12/27/2020 at 11:59pm PST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/15_Multiple_Integration/15.1_Integration_in_Two_Variables/15.1.29.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/15_Multiple_Integration/15.1_Integration_in_Two_Variables/15.1.7.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Michigan/Chap16Sec1/Q05.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/Michigan/Chap16Sec1/Q01.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/UMN/calculusStewartET/s_15_2_35.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+

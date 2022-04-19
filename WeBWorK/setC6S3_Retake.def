@@ -1,0 +1,64 @@
+assignmentType      = default
+openDate          = 09/22/2020 at 11:59pm PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 01/31/2021 at 11:59pm PST
+answerDate        = 01/31/2021 at 11:59pm PST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/FortLewis/Calc3/18-3-Gradient-fields/HGM4-18-3-28-Gradient-fields.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/FortLewis/Calc3/18-3-Gradient-fields/HGM4-18-3-27-Gradient-fields.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/Michigan/Chap18Sec3/Q31.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/Michigan/Chap18Sec3/Q23.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/272/setStewart16_1/problem_2.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+

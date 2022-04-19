@@ -1,0 +1,64 @@
+assignmentType      = default
+openDate          = 07/02/2020 at 11:59pm PDT
+reducedScoringDate = 12/31/1969 at 04:00pm PST
+dueDate           = 12/16/2020 at 11:59pm PST
+answerDate        = 12/16/2020 at 11:59pm PST
+enableReducedScoring = N
+paperHeaderFile   = defaultHeader
+screenHeaderFile  = defaultHeader
+description       = 
+restrictProbProgression = 
+emailInstructor   = 
+
+problemListV2 
+problem_start
+problem_id = 1
+source_file = Library/WHFreeman/Rogawski_Calculus_Early_Transcendentals_Second_Edition/13_Calculus_of_Vector-Valued_Functions/13.5_Motion_in_Three-Space/13.5.13.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 2
+source_file = Library/FortLewis/Calc3/13-2-Vectors-in-general/HGM4-13-2-18-Vectors-in-general/HGM4-13-2-18-Vectors-in-general.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 3
+source_file = Library/272/setStewart13_4/problem_10.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 4
+source_file = Library/ASU-topics/setCalculus/stef/stef13_4p2.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+problem_start
+problem_id = 5
+source_file = Library/FortLewis/Calc3/17-2-Motion-velocity/HGM5-17-2-10-Motion-velocity-acceleration.pg
+value = 1
+max_attempts = 2
+showMeAnother = -1
+prPeriod = -1
+counts_parent_grade = 0
+att_to_open_children = 1 
+problem_end
+
