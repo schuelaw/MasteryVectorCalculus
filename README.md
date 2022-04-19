@@ -47,5 +47,17 @@ WeBWorK tutorial for [Importing Homework
 Sets](https://webwork.maa.org/wiki/ImportingHomeworkSetsTutorial) for more
 details on this process.
 
+**Tree Based Progress:** Section assessments are the foundation of a
+pyramidal or hierachical approach to measuring progress in the course.
+
+![tree base progress](Hierarchical Grading Scheme.svg)
+
+In the diagram, we see a tree with three levels. The section assessments at
+the bottom (the leaves), the chapter assessments in the middle, and the
+final assessment at the top (the root). Chapter and Final assessments are
+also WeBWorK based and a 90% score is required to demonstrate mastery.
+
+If you pass a chapter assessment, you *harvest* the sections for that
+chapter.
 
 
