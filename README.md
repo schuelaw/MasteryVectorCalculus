@@ -62,21 +62,32 @@ also WeBWorK based and a 90% score is required to demonstrate mastery.
 instition likely will require you to submit some kind of final grade. This
 is somewhat antithetical to a mastery approach. 
 
-An imperfect solution to this conundrum is to use a traditional 10% per
-letter grade approach, i.e. an A is 90-100%, a B is 80-89%, etc. Then,
-compute the final grade as a percentage of the total number of sections
-mastered. However, in order to count a mastered section in your final
-grade, you must pass the chapter assessment that contains that section
-*and* the final exam.
+An imperfect solution to this conundrum is to use a *tree based* scoring
+system that feeds into a traditional 10% per letter grade approach, i.e. an
+A is 90-100%, a B is 80-89%, etc. Then, compute the final grade as a
+percentage of the total number of sections mastered. However, in order to
+count a mastered section in your final grade, you must pass the chapter
+assessment that contains that section *and* the final exam.
 
-Here's an example student's performance during a complete term:
+**Example:** Here's an example student's performance during a complete term:
 
 ![tree based
 progress](https://github.com/schuelaw/MasteryVectorCalculus/blob/main/TreeGradingExample.png)
 
 Passing the chapter assessements "earns" the points from the associated
-passed section assessments. Passing the final assessment "earns" the points
-from the chapter assessments. The percentage of total possible points
-earned in this scheme determines the final grade.
+passed section assessments. This student did not master Sec 2.5 in Ch2,
+Sections 3.1 and 3.4 in Ch 3, etc. This student also did not master Ch 2
+and hence "lost" the two mastered sections from that chapter. Passing the
+final assessment "earns" the points from the chapter assessments. The
+percentage of total possible points earned in this scheme determines the
+final grade. This student advanced a total of 27 points to the final grade
+level. There were a total of 35 points possible, hence the student earned
+77% of the total possible points and earned a grade of C.
+
+It should be noted that this is a simplified example. How you ultimately
+assign the final grade is ultimately your decision. The tree structured
+grading is novel. It introduces incentives to study for the chapter and
+final assessments. Since unlimited retakes are possible, the stakes are
+relatively low for any particular attempt at an assessment.
 
 
