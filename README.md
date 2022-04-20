@@ -58,7 +58,13 @@ the bottom (the leaves), the chapter assessments in the middle, and the
 final assessment at the top (the root). Chapter and Final assessments are
 also WeBWorK based and a 90% score is required to demonstrate mastery.
 
-If you pass a chapter assessment, you *harvest* the sections for that
-chapter.
+**Final Grade:** The challenge of mastery based systems is your
+instition likely will require you to submit some kind of final grade. This
+is somewhat antithetical to a mastery approach. 
 
-
+An imperfect solution to this conundrum is to use a traditional 10% per
+letter grade approach, i.e. an A is 90-100%, a B is 80-89%, etc. Then,
+compute the final grade as a percentage of the total number of sections
+mastered. However, in order to count a mastered section in your final
+grade, you must pass the chapter assessment that contains that section
+*and* the final exam.
