@@ -68,3 +68,15 @@ compute the final grade as a percentage of the total number of sections
 mastered. However, in order to count a mastered section in your final
 grade, you must pass the chapter assessment that contains that section
 *and* the final exam.
+
+Here's an example student's performance during a complete term:
+
+![tree based
+progress](https://github.com/schuelaw/MasteryVectorCalculus/blob/main/TreeGradingExample.png)
+
+Passing the chapter assessements "earns" the points from the associated
+passed section assessments. Passing the final assessment "earns" the points
+from the chapter assessments. The percentage of total possible points
+earned in this scheme determines the final grade.
+
+
