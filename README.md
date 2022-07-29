@@ -27,6 +27,8 @@ In preparation for this course, the following references were consulted:
 3](https://openstax.org/details/books/calculus-volume-3) from
 [OpenStax](https://openstax.org/).
 
+**Flipped:** Videos for each section are on the [Calculus III - Vector Calculus (Calculus 3 OpenStax) YouTube Channel](https://www.youtube.com/playlist?list=PLnDDTiuYdSglSYbQT0hAp8qvsoatvoipM).
+
 **Small Learning Groups:** Students ar divided into small learning
 groups. They follow a calendar of readings and learn independently. The
 instructor meets with each group for about 30 mins total each week to
